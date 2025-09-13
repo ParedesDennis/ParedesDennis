@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Zakirsoft](https://github.com/zakirsoft)
 
-- 🌱 Me encuentro aprendiedo lenguajes de programación como java, phyton, html **Cloud Server, Typescript,**
+- 🌱 Me encuentro aprendiedo lenguajes de programación como java, phyton, html
 
 - 📫 Me puedes contactar a mi correo institucional **U20303399@utp.edu.pe**
 
