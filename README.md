@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
 
-- 🔭 I’m currently working on [Zakirsoft](https://github.com/zakirsoft)
+- 🔭 I’m currently working on [La Baguetería SAC)
 
 - 🌱 Me encuentro aprendiedo lenguajes de programación como java, phyton, html
 
@@ -113,33 +113,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
       </a>
       <br>Digital Ocean
-    </td>
-      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>VS Code
-    </td>
-      <td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Postman
-    </td>
-      <td align="center" width="96">
-      <a href="#vuepress" >
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>VuePress
-    </td>
-  </tr>
-</table>
+
 
 ---
 <details>
